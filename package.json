@@ -1,0 +1,21 @@
+{
+  "name": "markdownllm",
+  "version": "1.0.0",
+  "description": "React application that allows to quickly work on files with an LLM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanMiroshnik/MarkdownLLM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JonathanMiroshnik/MarkdownLLM/issues"
+  },
+  "homepage": "https://github.com/JonathanMiroshnik/MarkdownLLM#readme"
+}
